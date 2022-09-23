@@ -1,0 +1,19 @@
+{
+  "name": "ejerciciosjavascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anngelicafernanda/ejerciciosJavaScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anngelicafernanda/ejerciciosJavaScript/issues"
+  },
+  "homepage": "https://github.com/anngelicafernanda/ejerciciosJavaScript#readme"
+}
